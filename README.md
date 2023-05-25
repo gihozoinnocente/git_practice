@@ -3,7 +3,7 @@
 # We worked on only one GitHub repository branch created from the beginning. Merging any other branches into one
 # Attendees[virtual]: Favor Ayuk, Innocente Gihozo, John Akech, Adediwura Adedigba, Onochie Igboerika, Delice Irakoze, Willy Kalisa, Jesse Kiguta for 2 hours 30mins.
 # hmusangwa added as a collaborator
-# Roles taken: innocente created the repository, Favor cloned the repository and created the first commit, John modified the statement added #to the hello.txt file, Innocente checkout and merged all existing branches into one.
+# Roles taken: innocente created the repository, Favor cloned the repository and created the first commit, John modified the statement added to the "hello.txt file", Onochie, Delice and Jesse also added to the "hello.txt file". Then Adediwura added, committed and pushed the repository to the Innocente who checkouted and merged all existing branches into one.
 # link to the repository
 # Challenges faced:
 #           -knowing what interfaces to use as a team, whether the intranet or git bash on our laptops.
